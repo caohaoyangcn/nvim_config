@@ -13,6 +13,7 @@ Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw)
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
 Plug 'vim-airline/vim-airline-themes'
 Plug 'https://github.com/preservim/nerdtree'
+Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 
 set encoding=utf-8
 
